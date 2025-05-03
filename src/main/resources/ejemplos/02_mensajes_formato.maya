@@ -1,0 +1,21 @@
+// Ejemplo 2: Mensajes con Formato
+// Demostración de cómo dar formato a los mensajes de salida
+
+mayab
+    // Crear un encabezado con líneas decorativas
+    pakal "===================================";
+    pakal "       MENSAJES CON FORMATO       ";
+    pakal "===================================";
+    
+    // Dejar espacio en blanco
+    pakal "";
+    
+    // Mostrar texto con distintos estilos
+    pakal "Este es un mensaje normal";
+    pakal "  * Este mensaje tiene sangría";
+    pakal "    > Este mensaje simula una cita";
+    
+    // Decoración de cierre
+    pakal "";
+    pakal "===================================";
+ahau 

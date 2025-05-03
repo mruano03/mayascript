@@ -1,0 +1,21 @@
+// Ejemplo 7: Demostración de Árbol de Derivación
+// Programa diseñado para mostrar un árbol de derivación interesante
+
+mayab
+    // Este programa está diseñado para mostrar un árbol
+    // de derivación con diferentes tipos de elementos
+    
+    // Mensaje simple
+    pakal "Demostración del árbol de derivación";
+    
+    // Valor booleano
+    pakal haab;
+    
+    // Varios mensajes sucesivos para mostrar la estructura
+    pakal "Primer nivel";
+    pakal "Segundo nivel";
+    pakal "Tercer nivel";
+    
+    // Mensaje final
+    pakal "Fin de la demostración de árbol";
+ahau 

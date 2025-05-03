@@ -1,0 +1,25 @@
+// Ejemplo 3: Valores Booleanos
+// Demostración del uso de valores booleanos en MayaScript
+
+mayab
+    // Mostrar título
+    pakal "=== VALORES BOOLEANOS ===";
+    pakal "";
+    
+    // Explicación de los valores booleanos
+    pakal "En MayaScript, existen dos valores booleanos:";
+    pakal "";
+    
+    // Mostrar valor verdadero
+    pakal "haab - Representa el valor VERDADERO:";
+    pakal haab;
+    
+    // Mostrar valor falso
+    pakal "";
+    pakal "manik - Representa el valor FALSO:";
+    pakal manik;
+    
+    // Nota de cierre
+    pakal "";
+    pakal "=== Fin de la demostración ===";
+ahau 

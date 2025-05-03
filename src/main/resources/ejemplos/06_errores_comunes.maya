@@ -1,0 +1,29 @@
+// Ejemplo 6: Errores Comunes (Corregidos)
+// Demostración de errores comunes y cómo corregirlos
+
+mayab
+    // Correcto: El programa debe comenzar con mayab
+    // Incorrecto: maya (sin la 'b' al final)
+    
+    // Correcto: pakal debe ir seguido de un valor o expresión
+    pakal "Este mensaje es correcto";
+    
+    // Correcto: las cadenas deben ir entre comillas dobles
+    pakal "Este mensaje usa comillas correctamente";
+    // Incorrecto: pakal Este mensaje no tiene comillas;
+    
+    // Correcto: cada instrucción termina con punto y coma
+    pakal "Esta instrucción termina con punto y coma";
+    // Incorrecto: pakal "Esta instrucción no tiene punto y coma"
+    
+    // Correcto: los valores booleanos son haab y manik
+    pakal haab;   // Correcto: verdadero
+    pakal manik;  // Correcto: falso
+    // Incorrecto: pakal true;
+    // Incorrecto: pakal false;
+    
+    // Correcto: el programa debe finalizar con ahau
+    // Incorrecto: aha (sin la 'u' al final)
+    pakal "Fin del programa con errores corregidos";
+ahau
+// Correcto: No debe haber nada después de ahau 

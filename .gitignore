@@ -1,0 +1,53 @@
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Carpetas específicas de Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Archivos y carpetas específicas de IDE
+.idea/
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+.cursor/
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Otros archivos que no deberían ser controlados por Git
+hs_err_pid* 
+*.tex
+*.md
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.pptx

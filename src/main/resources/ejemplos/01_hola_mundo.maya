@@ -1,0 +1,6 @@
+// Ejemplo 1: Hola Mundo en MayaScript
+// Un programa simple que muestra un mensaje de saludo
+
+mayab
+    pakal "¡Hola Mundo desde MayaScript!";
+ahau 

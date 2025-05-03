@@ -1,0 +1,31 @@
+// Ejemplo 5: Programa Completo
+// Un programa que utiliza múltiples características de MayaScript
+
+mayab
+    // ===== ENCABEZADO DEL PROGRAMA =====
+    pakal "=================================";
+    pakal "      PROGRAMA DEMOSTRATIVO      ";
+    pakal "=================================";
+    pakal "";
+    
+    // Mostrar información sobre el lenguaje
+    pakal "MayaScript es un lenguaje inspirado en la cultura maya:";
+    pakal "";
+    pakal "  * mayab: inicia cada programa";
+    pakal "  * ahau: finaliza cada programa";
+    pakal "  * pakal: muestra mensajes en pantalla";
+    pakal "";
+    
+    // Demostración de valores booleanos
+    pakal "Valores booleanos disponibles:";
+    pakal "  * haab (verdadero): ";
+    pakal haab;
+    pakal "  * manik (falso): ";
+    pakal manik;
+    pakal "";
+    
+    // Mensaje de despedida
+    pakal "=================================";
+    pakal "  ¡Gracias por usar MayaScript!  ";
+    pakal "=================================";
+ahau 

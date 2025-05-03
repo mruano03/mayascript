@@ -1,0 +1,23 @@
+// Ejemplo 4: Uso de Comentarios
+// Demostración de cómo usar comentarios en MayaScript
+
+mayab
+    // Este es un comentario de una línea
+    pakal "Los comentarios ayudan a documentar el código";
+    
+    // Los comentarios son ignorados por el compilador
+    // pero son útiles para los programadores
+    pakal "Los comentarios empiezan con //";
+    
+    // Podemos usar comentarios para:
+    // - Explicar el código
+    // - Desactivar código temporalmente
+    // - Añadir información importante
+    pakal "Los comentarios hacen que el código sea más legible";
+    
+    // También podemos poner comentarios al final de una línea
+    pakal "Este mensaje tiene un comentario al lado"; // Como este
+    
+    // Este comentario explica la siguiente línea
+    pakal "Fin del ejemplo de comentarios";
+ahau 
