@@ -108,5 +108,5 @@ Proyecto Educativo(Curso: Compiladores)
 
 ## 👥 Autores
 
-- **[Mynor David Ruano Cabrera]** - *Trabajo inicial* - [tu-usuario](https://github.com/mruano03)
+- **[Mynor David Ruano Cabrera]** - *Trabajo inicial* - (https://github.com/mruano03)
 
